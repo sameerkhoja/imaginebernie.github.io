@@ -1,2 +1,2 @@
-# imaginebernie.github.io
-Temp splash website
+# imaginebernie
+temporary website
